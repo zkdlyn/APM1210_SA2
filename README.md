@@ -29,11 +29,13 @@ Data were obtained from and manually cross-checked across the following online s
 
 #### Objectives
 
-Compare the mean number of awards between non-politicians and politicians using t-test. (perm) \
+Compare the mean number of awards between non-politicians and politicians using t-test. (perm) 
 
-Apply bootstrap and jackknife resampling to identify if career length, no. of acting credits, no. of awards, and no. of immediate family members in politiics are significantly associated with actors becoming elected politicians and examine the strength and direction of their influence using logistic regression modeling. \
+Apply bootstrap and jackknife resampling to identify if career length, no. of acting credits, no. of awards, and no. of immediate family members in politiics are significantly associated with actors becoming elected politicians and examine the strength and direction of their influence using logistic regression modeling. 
 
-Determine if the chances of an actor to pursue certain levels of education is motivated by their odds of being an elected politician. \
+Determine if the chances of an actor to pursue certain levels of education is motivated by their odds of being an elected politician. 
+
+years_active x imdb_credits for pd estimation
 
 
 
