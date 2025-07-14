@@ -2,7 +2,7 @@
 
 #### Members 
 Baybayon, Darlyn Antoinette B. \
-Mayol, Jose Raphael J. \
+Mayol, Jose Raphael J. 
 
 #### Dataset 
 
