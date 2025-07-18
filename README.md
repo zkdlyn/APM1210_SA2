@@ -39,7 +39,7 @@ Apply bootstrap and jackknife resampling techniques to identify if career length
 
 Determine if the chances of an actor to pursue certain levels of education is motivated by their odds of being an elected politician. 
 
-years_active x imdb_credits for pd estimation
+Identify particular career trajectories or fame profiles that correlate with political crossover potential.
 
 
 
