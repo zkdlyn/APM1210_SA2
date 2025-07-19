@@ -1,13 +1,19 @@
-[short intro]
+## APM1210 Summative Assessment
 
-[dataset overview]
+### Summary of Findings
+[short intro] - Darlyn
 
-[bootstrapping -> family]
+[dataset overview] - Darlyn
 
-[permutation -> findings]
+[bootstrapping -> family] - Darlyn
 
-[bayesian -> politics as motive for pursuing higher education]
+[permutation -> findings] - Darlyn
 
-[bivariate pdf estimation -> the sweet spot for celebrity-politics transition]
+[bayesian -> politics as motive for pursuing higher education] - Joel
 
-[synthesis]
+[bivariate pdf estimation -> the sweet spot for celebrity-politics transition] - Joel
+
+[synthesis] - Joel
+
+### Conclusion & Recommendations
+[conclusions & recommendations] - Joel
