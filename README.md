@@ -25,7 +25,7 @@ The following information was collected for each actor:
 
 - politics: Categorical, target variable; 1 – Elected politician at any point until May 2022 elections, 0 – Not elected. 
 
-Data were obtained from and manually cross-checked across the following online sources: IMDb (for acting credits and awards), Wikipedia (for career duration, political involvement, family, and educational background), Geni.com (for identifying immediate family members) and News websites such as Inquirer, Philippine Star, PEP, etc. (for validation of other information). The original dataset had 124 observations in total.
+Data were obtained from and manually cross-checked across the following online sources: IMDb (for acting credits and awards), Wikipedia (for career duration, political involvement, family, and educational background), Geni.com (for identifying immediate family members) and News websites such as Inquirer, Philippine Star, PEP, etc. (for validation of other information). The original dataset had 124 observations in total. These data were then sampled into 30 observations while retaining the initial proportions- shown in the 'sampling.R' file.
 
 
 
