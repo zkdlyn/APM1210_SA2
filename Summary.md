@@ -15,5 +15,5 @@ Taken together with the education patterns, it is clear that more than just the 
 
 [synthesis] - Joel
 
-### Conclusion & Recommendations
-[conclusions & recommendations] - Joel
+### Recommendations
+[Recommendations] - Joel
