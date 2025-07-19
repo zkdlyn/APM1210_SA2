@@ -8,13 +8,13 @@ In the Philippines, celebrities have long influenced politics by endorsing candi
 The sampled dataset for this study comprises 30 actors—18 classified as non-politicians and 12 as politicians. It includes columns for career length, total acting credits, number of immediate family members in politics, highest educational attainment, and number of acting awards won from notable bodies.
 
 [bootstrapping -> family] - Darlyn
-
+Actors are found to likely have at least one family connection in politics, blurring the lines between politics and showbiz in the Philippines. This phenomenon highlights name recall as a prized currency in electoral success. Their household names, backed by established campaign machinery and loyal voter networks—exemplified by the Ejercito-Estrada and Revilla clans—give them a clear edge when running for public office.
 
 [permutation -> findings] - Darlyn
 
-The permutation test found no significant difference in mean award wins between actors who enter politics and those who do not. This suggests that variations in total award wins alone do not reliably predict an actor’s electoral success. However, our analysis is limited by focusing solely on award counts, omitting other fame indicators and factors like family political ties or education. The small sample size further constrains generalizability.
+The permutation test found no significant difference in the average number of award wins between actors who entered politics and those who did not. This suggests that variations in total award wins alone do not reliably predict an actor’s electoral success. However, our analysis is limited by focusing solely on award counts, omitting other fame indicators and factors like family political ties or education. The small sample size further constrains generalizability.
 
-While awards undoubtedly boost public recognition and reflect professional dedication, individual career priorities may vary widely—whether toward politics or continued acting accolades. To uncover stronger predictors of political success among actors, future studies should incorporate broader measures of fame and other contextual factors.
+While awards undoubtedly boost public recognition and reflect professional caliber, individual career priorities may vary widely—whether toward politics or continued acting accolades. To uncover stronger predictors of political success among actors, future studies should incorporate broader measures of fame and other contextual factors.
 
 [resampling (logistic regression)]
 
