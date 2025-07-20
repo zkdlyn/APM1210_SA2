@@ -21,7 +21,7 @@ The following information was collected for each actor:
 
 - family: Numerical; Number of immediate family members in politics 
 
-- education: Categorical; Levels: 0 – Not finished basic education, 1 – Basic Education, 2 – Bachelor’s Degree, 3 – Master’s Degree, 4 – Doctorate 
+- education: Categorical; Levels: 0 – Not finished basic education, 1 – Basic Education, 2 – Bachelor’s Degree, 3 – Postgraduate 
 
 - politics: Categorical, target variable; 1 – Elected politician at any point until May 2022 elections, 0 – Not elected. 
 
