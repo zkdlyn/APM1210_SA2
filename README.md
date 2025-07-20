@@ -1,8 +1,8 @@
 ## APM1210 Summative Assessment
 
 #### Members 
-Baybayon, Darlyn Antoinette B. \
-Mayol, Jose Raphael J. 
+Baybayon, Darlyn Antoinette B. - Bootstrap & Permutation Methods \
+Mayol, Jose Raphael J. - MCMC Bayesian Inference & Probability Density Estimation 
 
 #### Dataset 
 A purposive sampling approach was used to gather as many actors-turned-politicians as possible, as this group is relatively limited. Purposive random sampling was applied to select a comparable number of actors who had not entered politics. To ensure similar levels of public exposure, we imposed the following selection criteria: 
