@@ -33,7 +33,7 @@ Data were obtained from and manually cross-checked across the following online s
 
 Compare the mean number of awards between non-politicians and politicians using permutation testing.
 
-Apply bootstrap and jackknife resampling methods will be used to quantify the uncertainty around the actors' average number of family in politics, estimating its bias, variance, and a 95% confidence interval.
+Apply bootstrap and jackknife resampling methods to quantify the uncertainty around the actors' average number of family in politics, estimating its bias, variance, and a 95% confidence interval.
 
 Identify if career length (in years), no. of acting credits, no. of awards, and no. of immediate family members in politiics are significantly associated with actors becoming elected politicians. Use logistic regression modeling to estimate thethe strength and direction these predictors while assessing model stability under bootstrap resampling.
 
